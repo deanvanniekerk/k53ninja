@@ -1,3 +1,4 @@
 {
-    "environment": "development"
+    "environment": "development",
+    "azureStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=k53ninjastore;AccountKey=tkSDgmIKQZV4EsnaeR5AsVXzDSzCJYYtvlB2oVl8iglD1bQA0i9v+uFQNNfJpx7eh7hcYkv8KbkpjLtxHHjLkw==;EndpointSuffix=core.windows.net"
 }
