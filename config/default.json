@@ -1,4 +1,5 @@
 {
     "environment": "development",
-    "azureStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=k53ninjastoredev;AccountKey=aCvv0C42zejHWsLbs3voFgPg05Mq4JMsnYJOBFccrvsAqGTNPmpQrOrd3LXrakjFNK/Z07VMlBc0CWDpEDb5Nw==;EndpointSuffix=core.windows.net"
+    "azureStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=k53ninjastoredev;AccountKey=aCvv0C42zejHWsLbs3voFgPg05Mq4JMsnYJOBFccrvsAqGTNPmpQrOrd3LXrakjFNK/Z07VMlBc0CWDpEDb5Nw==;EndpointSuffix=core.windows.net",
+    "logLevel": "DEBUG"
 }
