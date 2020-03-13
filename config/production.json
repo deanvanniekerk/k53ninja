@@ -1,5 +1,6 @@
 {
     "environment": "production",
-    "azureStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=k53ninjastore;AccountKey=tkSDgmIKQZV4EsnaeR5AsVXzDSzCJYYtvlB2oVl8iglD1bQA0i9v+uFQNNfJpx7eh7hcYkv8KbkpjLtxHHjLkw==;EndpointSuffix=core.windows.net",
-    "logLevel": "DEBUG"
+    "logLevel": "DEBUG",
+    "azureStorageTableUrl": "https://k53ninjastore.table.core.windows.net",
+    "azureStorageTableSasToken": "?sv=2019-02-02&ss=t&srt=sco&sp=rwac&se=2050-03-13T20:45:12Z&st=2020-03-13T12:45:12Z&spr=https&sig=DtpwZldGLvOGfjCAkam%2BLAEjGilXA0gAKiOo6Z4hTVE%3D"
 }
