@@ -1,6 +1,6 @@
 {
     "environment": "production",
-    "logLevel": "DEBUG",
+    "logLevel": "INFO",
     "azureStorageTableUrl": "https://k53ninjastore.table.core.windows.net",
-    "azureStorageTableSasToken": "sv=2019-02-02&ss=t&srt=sco&sp=rwac&se=2050-03-13T20:45:12Z&st=2020-03-13T12:45:12Z&spr=https&sig=DtpwZldGLvOGfjCAkam%2BLAEjGilXA0gAKiOo6Z4hTVE%3D"
+    "azureStorageTableSasToken": "?sv=2019-02-02&ss=ft&srt=sco&sp=wac&se=2060-03-28T17:16:08Z&st=2020-03-28T09:16:08Z&spr=https&sig=tDVaKbD%2BC%2F2MyZF4slfvRrj92Y7BVAG6fRc8QQpWyZo%3D"
 }
