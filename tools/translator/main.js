@@ -1,7 +1,7 @@
 const fs = require('fs');
 const { translations } = require("./input/translations");
 
-const key = 'AIzaSyDed0QLVXOeb91mmZJrZ738Cau3rFA2Y2M';
+const key = '';
 
 const { Translate } = require('@google-cloud/translate').v2;
 
