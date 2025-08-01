@@ -1,14 +1,14 @@
-# K53 Ninja
+# K53 Study Guide
 
 ![banner](https://i.ibb.co/g9wC6vb/Feature-Graphic.png)
 
-**K53 Ninja** guides learners through the process of preparing for the K53 learners license test.
+**K53 Study Guide** guides learners through the process of preparing for the K53 learners license test.
 
-Some of K53 Ninja features include:
+Some of K53 Study Guide features include:
 
 -   The **Study** section: contains all K53 study material and a tracker which logs the sections that have been read through.
--   The **Dojo** section: learners practise by completing test questions, all progress is tracked and indicated by Level.
--   The **Arena** section: leaners test their skills by completing mock tests that are set up and marked in the same way as the real one.
+-   The **Quiz** section: learners practise by completing test questions, all progress is tracked and indicated by Level.
+-   The **Test** section: leaners test their skills by completing mock tests that are set up and marked in the same way as the real one.
 
 K53 Ninja contains a bank of **over 400** tough test questions. Test are **dynamically generated** so learners will never feel like they are repeating tests.
 
